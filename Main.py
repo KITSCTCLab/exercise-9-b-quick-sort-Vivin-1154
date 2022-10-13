@@ -1,6 +1,6 @@
 from typing import List
 
-def quick_sort(data, low, high) -> List[int]:
+def quick_sort(data, lw, high) -> List[int]:
     # Write code her
 
 input_data = input()
